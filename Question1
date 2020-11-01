@@ -1,1 +1,3 @@
-
+Question- Explain dimension reduction in machine learning?
+Answer- Dimension reduction means reducing the dimension of a data feature set which can be three dimensions to the two dimensions object. Techniques like PCA
+and RF can help in dimension reduction.
